@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!-- The COPYRIGHT file at the top level of this repository contains the full
+     copyright notices and license terms. -->
+<data>
+    <xpath expr="/form/notebook/page[@id='addresses']" position="before">
+        <page id="internetdomain" string="Internet Domain">
+            <group col="6" colspan="4" id="internetdomain_info">
+                <label name="internetdomain_registration_date"/>
+                <field name="internetdomain_registration_date"/>
+            </group>
+            <group col="6" colspan="4" id="internetdomain_dns">
+                <label name="internetdomain_dns1"/>
+                <field name="internetdomain_dns1"/>
+                <label name="internetdomain_dns2"/>
+                <field name="internetdomain_dns2"/>
+                <label name="internetdomain_dns3"/>
+                <field name="internetdomain_dns3"/>
+                <label name="internetdomain_dns4"/>
+                <field name="internetdomain_dns4"/>
+            </group>
+            <separator name="internetdomain_comment" colspan="4"/>
+            <field name="internetdomain_comment" colspan="4"/>
+        </page>
+    </xpath>
+</data>

@@ -1,0 +1,111 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:asset,internetdomain_comment:"
+msgid "Comment"
+msgstr "Comentario"
+
+msgctxt "field:asset,internetdomain_dns1:"
+msgid "DNS Primary"
+msgstr "DNS primario"
+
+msgctxt "field:asset,internetdomain_dns2:"
+msgid "DNS Secundary"
+msgstr "DNS secundario"
+
+msgctxt "field:asset,internetdomain_dns3:"
+msgid "DNS Secundary (2)"
+msgstr "DNS secundario (2)"
+
+msgctxt "field:asset,internetdomain_dns4:"
+msgid "DNS Secundary (3)"
+msgstr "DNS secundario (3)"
+
+msgctxt "field:asset,internetdomain_lines:"
+msgid "Lines"
+msgstr "Líneas"
+
+msgctxt "field:asset,internetdomain_registration_date:"
+msgid "Registration Date"
+msgstr "Fecha registro"
+
+msgctxt "field:asset.internetdomain.line,asset:"
+msgid "Domain"
+msgstr "Dominio"
+
+msgctxt "field:asset.internetdomain.line,comment:"
+msgid "Comment"
+msgstr "Comentario"
+
+msgctxt "field:asset.internetdomain.line,create_date:"
+msgid "Create Date"
+msgstr "Fecha de creación"
+
+msgctxt "field:asset.internetdomain.line,create_uid:"
+msgid "Create User"
+msgstr "Usuario de creación"
+
+msgctxt "field:asset.internetdomain.line,date_expire:"
+msgid "Date Expire"
+msgstr "Fecha expiración"
+
+msgctxt "field:asset.internetdomain.line,date_renewal:"
+msgid "Date Renewal"
+msgstr "Fecha renovación"
+
+msgctxt "field:asset.internetdomain.line,id:"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "field:asset.internetdomain.line,rec_name:"
+msgid "Name"
+msgstr "Nombre"
+
+msgctxt "field:asset.internetdomain.line,registrator:"
+msgid "Registrator"
+msgstr "Registrador"
+
+msgctxt "field:asset.internetdomain.line,write_date:"
+msgid "Write Date"
+msgstr "Fecha de modificación"
+
+msgctxt "field:asset.internetdomain.line,write_uid:"
+msgid "Write User"
+msgstr "Usuario de modificación"
+
+msgctxt "model:asset.internetdomain.line,name:"
+msgid "Asset Internet Domain Line"
+msgstr "Activo linia dominio internet"
+
+msgctxt "model:ir.action,name:act_asset_internetdomain"
+msgid "Internet Domain"
+msgstr "Dominio internet"
+
+msgctxt "model:ir.action,name:act_asset_internetdomain_line"
+msgid "Internet Domain Line"
+msgstr "Linia dominio internet"
+
+msgctxt "model:ir.action,name:act_asset_internetdomain_line_form"
+msgid "Domain Lines"
+msgstr "Lineas dominio"
+
+msgctxt "model:ir.ui.menu,name:menu_asset_internetdomain_form"
+msgid "Internet Domain"
+msgstr "Dominio internet"
+
+msgctxt "model:ir.ui.menu,name:menu_asset_internetdomain_line_form"
+msgid "Internet Domain Line"
+msgstr "Linia dominio internet"
+
+msgctxt "model:res.group,name:group_asset_internetdomain"
+msgid "Asset Internert Domain"
+msgstr "Activo dominio internet"
+
+msgctxt "selection:asset,type:"
+msgid "Internet Domain"
+msgstr "Dominio internet"
+
+msgctxt "view:asset:"
+msgid "Internet Domain"
+msgstr "Dominio internet"
