@@ -3,7 +3,7 @@
      copyright notices and license terms. -->
 <form>
     <label name="asset"/>
-    <field name="asset"/>
+    <field name="asset" colspan="3"/>
     <label name="date_renewal"/>
     <field name="date_renewal"/>
     <label name="date_expire"/>
