@@ -12,7 +12,7 @@ _STATES = {
 _DEPENDS = ['type']
 
 
-class Asset:
+class Asset(metaclass=PoolMeta):
     __metaclass__ = PoolMeta
     __name__ = 'asset'
     internetdomain_registration_date = fields.Date('Registration Date',
